@@ -8,6 +8,7 @@ import { DropdownDirective } from './dropdown.directive';
 	],
 	exports:[ 
 		CommonModule,
+		DropdownDirective
 	]
 })
 
